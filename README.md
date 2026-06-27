@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f2922&height=220&section=header&text=Chrisvie%20Ivor%20Batan&fontSize=60&fontColor=2dd4bf&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=55&descSize=18&descColor=5eead4&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a2530&height=220&section=header&text=Chrisvie%20Ivor%20Batan&fontSize=60&fontColor=f9a8d4&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=55&descSize=18&descColor=fbcfe8&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akiro404&label=PROFILE%20VIEWS&color=134e4a&style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://komarev.com/ghpvc/?username=akiro404&label=PROFILE%20VIEWS&color=831843&style=for-the-badge&labelColor=1a1a1a"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/akiro404?label=FOLLOWERS&color=2dd4bf&style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/github/followers/akiro404?label=FOLLOWERS&color=f472b6&style=for-the-badge&labelColor=1a1a1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-Tacloban%20City%20PH-0f766e?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/LOCATION-Tacloban%20City%20PH-be185d?style=for-the-badge&labelColor=1a1a1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-14b8a6?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-ec4899?style=for-the-badge&labelColor=1a1a1a"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 ## 🚀 Featured Projects
 
-> ### ⚙️ PRO8 Internal Web Systems
+> ### ⚙️ PRO8 Internal Web Systems — *Data Analyst & Technical Support*
 > 📅 **February – June 2026**
 >
 > Mission-critical management systems built for law enforcement under high-stakes government deadlines.
@@ -146,6 +146,24 @@
 > ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
+
+> ### 🎫 Crowd Control System — School Event Management
+> 🔗 [Live Demo](https://crowdcontrolsystem.pages.dev/)
+>
+> A real-time crowd monitoring dashboard built for managing capacity at school events — tracks occupancy, wristband check-ins, and zone-level crowd density live.
+>
+> 🔥 **Highlights:**
+> - Live occupancy meter with safe/warning/overcrowded thresholds
+> - RFID-based check-in/check-out simulation for wristband tracking
+> - Real-time venue map showing per-zone crowd density
+> - Headcount-over-time chart and event activity log
+> - Built and deployed solo, end-to-end
+>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 💼 Experience
@@ -157,6 +175,9 @@
   *(See Featured Projects above for details)*
 
 - 🍵 **Web Developer** @ Zen & Sip E-Commerce Website
+  *(See Featured Projects above for details)*
+
+- 🎫 **Solo Developer** @ Crowd Control System — School Event Management
   *(See Featured Projects above for details)*
 
 ---
