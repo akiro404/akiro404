@@ -45,20 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akiro404&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=akiro404&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiro404&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
