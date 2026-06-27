@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a2530&height=220&section=header&text=Chrisvie%20Ivor%20Batan&fontSize=60&fontColor=f9a8d4&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineer&descAlignY=55&descSize=18&descColor=fbcfe8&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2d1b1a,100:6b3a3a&height=240&section=header&text=Chrisvie%20C.%20Ivor%20Batan&fontSize=58&fontColor=ffd4b8&fontAlignY=33&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineer&descAlignY=52&descSize=18&descColor=ffb8c6&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akiro404&label=PROFILE%20VIEWS&color=831843&style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://komarev.com/ghpvc/?username=akiro404&label=PROFILE%20VIEWS&color=d97757&style=for-the-badge&labelColor=2d1b1a"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/akiro404?label=FOLLOWERS&color=f472b6&style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/github/followers/akiro404?label=FOLLOWERS&color=ffb4a2&style=for-the-badge&labelColor=2d1b1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-Tacloban%20City%20PH-be185d?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/LOCATION-Tacloban%20City%20PH-e8927c?style=for-the-badge&labelColor=2d1b1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-ec4899?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-ffb8c6?style=for-the-badge&labelColor=2d1b1a"/>
 </p>
 
 ---
