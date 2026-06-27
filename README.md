@@ -50,7 +50,7 @@
 ## 🚀 Featured Projects
 
 ### 🛡️ PRO-8 Internal System
-*A web-based internal system built for Police Regional Office 8 (PRO-8), Palo, Leyte — private repository (not publicly available).*
+*A web-based internal system built for Police Regional Office 8 (PRO-8), Palo, Leyte — Data Analyst | Front-end |).*
 
 - Built on **Laravel 12**, **Vite**, and **Tailwind CSS 4**
 - Implemented **role-based access control** via custom middleware to restrict routes by user role
