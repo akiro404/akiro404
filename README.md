@@ -49,37 +49,105 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ PRO-8 Internal System
-*A web-based internal system built for Police Regional Office 8 (PRO-8), Palo, Leyte — Data Analyst | Front-end |).*
+> ### ⚙️ PRO8 Internal Web Systems
+> 📅 **February – June 2026**
+>
+> Mission-critical management systems built for law enforcement under high-stakes government deadlines.
+>
+> 🔥 **Highlights:**
+> - Custom-built for active operational internal use
+> - High-security RBAC & audit log implementation
+> - Collaborative requirements gathering with government end-users
+> - Production-deployed in a live government environment
+> - REST API-driven with strict operational security requirements
+>
+> ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Built on **Laravel 12**, **Vite**, and **Tailwind CSS 4**
-- Implemented **role-based access control** via custom middleware to restrict routes by user role
-- Added an **account status check middleware** for managing active/suspended accounts
-- Applied **custom security headers** middleware and hardened `.htaccess` rules to block direct access to sensitive files (`.env`, `composer.json`, `phpunit.xml`, etc.)
-- Configured **trusted proxy handling** for correct HTTPS URL generation behind reverse proxies (e.g. ngrok)
-- Designed with production-grade defaults: SQLite/MySQL-ready database layer, queue support, and environment-based configuration
+<br>
+
+> ### 🤖 INTERNMATCH
+> 📅 **2025 – 2026**
+>
+> AI-powered student internship & apprenticeship placement system designed to match students with relevant opportunities.
+>
+> 🔥 **Highlights:**
+> - Built responsive dashboards for students, employers, and admins
+> - Validated and cleaned datasets used for AI-driven matching
+> - Collaborated as front-end developer and data analyst across the stack
+> - Designed UI components with Bootstrap for fast, consistent styling
+>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+> ### 🍵 Zen & Sip E-Commerce Website
+> 📅 **2025**
+>
+> A full e-commerce platform built for wholesale tea ordering with checkout, order tracking, and admin management.
+>
+> 🔥 **Highlights:**
+> - End-to-end checkout flow with order tracking for customers
+> - Wholesale ordering system for bulk purchases
+> - Built a full admin dashboard for inventory and order management
+> - Designed and developed solo as lead web developer
+>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 - 🖥️ **IT Intern** @ Police Regional Office 8 (PRO-8), Palo, Leyte (2026)
-  Network setup, hardware/software maintenance, technical documentation, and systems support — including development of the PRO-8 Internal System (see Featured Projects).
+  Network setup, hardware/software maintenance, technical documentation, and systems support. *(See Featured Projects: PRO8 Internal Web Systems)*
 
 - 🤖 **Data Analyst / Front-End Dev** @ INTERNMATCH — AI-Powered Student Internship & Apprenticeship Placement System
-  Built responsive dashboards (HTML, CSS, Bootstrap, JS, PHP, MySQL) and validated datasets for AI-driven matching.
+  *(See Featured Projects above for details)*
 
 - 🍵 **Web Developer** @ Zen & Sip E-Commerce Website
-  Developed a full e-commerce platform with wholesale ordering, checkout, order tracking, and an admin dashboard.
+  *(See Featured Projects above for details)*
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 BS in Information Technology, **ACLC College of Tacloban** (2022 – 2026)
-- 💻 Experienced in full-stack web development, IT support, and systems troubleshooting
-- 🌱 Strong foundation in data accuracy, network configuration, and technical documentation
-- 📍 Based in **Tacloban City, Leyte, Philippines**
+|     |     |
+|-----|-----|
+| 💼 | **Full-Stack Web Developer & Aspiring AI-Assisted Engineer** |
+| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
+| 📍 | Tacloban City, Leyte, Philippines |
+| 🏛️ | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
+| ⚡ | PHP · Laravel · MySQL · REST APIs · JavaScript |
+| 🌱 | Learning to integrate AI tools into my dev workflow |
+| 🚀 | Open to Work |
+
+> 🔥 I build full systems end-to-end — from front-end UI to backend logic and database design. Quick learner, comfortable under deadline pressure, and always looking to pick up new tools that make my work sharper.
+
+---
+
+## 🧠 Working Smarter with AI
+
+> I treat AI tools as part of my dev toolkit — not a replacement for understanding the code, but a way to move faster and think through problems more clearly.
+
+| 🔧 Where I Use It | 💡 How |
+|---|---|
+| 🗺️ Planning | Sketching out system structure, logic flow, and edge cases before writing code |
+| ⌨️ Coding | Speeding up boilerplate, syntax lookups, and getting unstuck faster |
+| 🐞 Debugging | Talking through bugs and error messages to find root causes quicker |
+| 📚 Learning | Picking up new frameworks/concepts (like Laravel features) on the fly |
+
+*Still hands-on with every line that ships — AI helps me get there faster, not skip the thinking.*
 
 ---
 
