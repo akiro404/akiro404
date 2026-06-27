@@ -1,6 +1,47 @@
-# Hi, I'm Chrisvie Ivor Batan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f2922&height=220&section=header&text=Chrisvie%20Ivor%20Batan&fontSize=60&fontColor=2dd4bf&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineer%20%7C%20Laravel%20Specialist&descAlignY=55&descSize=18&descColor=5eead4&animation=fadeIn" width="100%"/>
+</p>
 
-🎓 BSIT Graduate | 💻 Full-Stack Web Developer | 🛠️ IT Support & Systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akiro404&label=PROFILE%20VIEWS&color=134e4a&style=for-the-badge&labelColor=1a1a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/akiro404?label=FOLLOWERS&color=2dd4bf&style=for-the-badge&labelColor=1a1a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-Tacloban%20City%20PH-0f766e?style=for-the-badge&labelColor=1a1a1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-14b8a6?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+|     |     |
+|-----|-----|
+| 💼 | **Full-Stack Web Developer & Aspiring AI-Assisted Engineer** |
+| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
+| 📍 | Tacloban City, Leyte, Philippines |
+| 🏛️ | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
+| ⚡ | PHP · Laravel · MySQL · REST APIs · JavaScript |
+| 🌱 | Learning to integrate AI tools into my dev workflow |
+| 🚀 | Open to Work |
+
+> 🔥 I build full systems end-to-end — from front-end UI to backend logic and database design. Quick learner, comfortable under deadline pressure, and always looking to pick up new tools that make my work sharper.
+
+---
+
+## 🧠 Working Smarter with AI
+
+> I treat AI tools as part of my dev toolkit — not a replacement for understanding the code, but a way to move faster and think through problems more clearly.
+
+| 🔧 Where I Use It | 💡 How |
+|---|---|
+| 🗺️ Planning | Sketching out system structure, logic flow, and edge cases before writing code |
+| ⌨️ Coding | Speeding up boilerplate, syntax lookups, and getting unstuck faster |
+| 🐞 Debugging | Talking through bugs and error messages to find root causes quicker |
+| 📚 Learning | Picking up new frameworks/concepts (like Laravel features) on the fly |
+
+*Still hands-on with every line that ships — AI helps me get there faster, not skip the thinking.*
 
 ---
 
@@ -117,37 +158,6 @@
 
 - 🍵 **Web Developer** @ Zen & Sip E-Commerce Website
   *(See Featured Projects above for details)*
-
----
-
-## 🚀 About Me
-
-|     |     |
-|-----|-----|
-| 💼 | **Full-Stack Web Developer & Aspiring AI-Assisted Engineer** |
-| 🎓 | BSIT — ACLC College of Tacloban, Tacloban City, Leyte · 2022–2026 |
-| 📍 | Tacloban City, Leyte, Philippines |
-| 🏛️ | Intern @ Police Regional Office 8 · Feb–Jun 2026 |
-| ⚡ | PHP · Laravel · MySQL · REST APIs · JavaScript |
-| 🌱 | Learning to integrate AI tools into my dev workflow |
-| 🚀 | Open to Work |
-
-> 🔥 I build full systems end-to-end — from front-end UI to backend logic and database design. Quick learner, comfortable under deadline pressure, and always looking to pick up new tools that make my work sharper.
-
----
-
-## 🧠 Working Smarter with AI
-
-> I treat AI tools as part of my dev toolkit — not a replacement for understanding the code, but a way to move faster and think through problems more clearly.
-
-| 🔧 Where I Use It | 💡 How |
-|---|---|
-| 🗺️ Planning | Sketching out system structure, logic flow, and edge cases before writing code |
-| ⌨️ Coding | Speeding up boilerplate, syntax lookups, and getting unstuck faster |
-| 🐞 Debugging | Talking through bugs and error messages to find root causes quicker |
-| 📚 Learning | Picking up new frameworks/concepts (like Laravel features) on the fly |
-
-*Still hands-on with every line that ships — AI helps me get there faster, not skip the thinking.*
 
 ---
 
