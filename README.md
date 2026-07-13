@@ -124,7 +124,7 @@
 > - End-to-end checkout flow with order tracking for customers
 > - Wholesale ordering system for bulk purchases
 > - Built a full admin dashboard for inventory and order management
-> - Designed and developed as web developer
+> - Designed and developed solo as lead web developer
 >
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -180,9 +180,7 @@
   <a href="https://github.com/akiro404">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-  <p>
-  <a href="portfolio.batanivor11.workers.dev">
-    <img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logo=Portfolio&logoColor=white"/>
+  <a href="https://portfolio.batanivor11.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
